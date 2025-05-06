@@ -23,5 +23,5 @@ A simple notes-taking web application developed as a submission project for the 
 
 ## **📚 Course Reference**
 This project was submitted as part of the Dicoding Indonesia learning path:  
-🔗_Belajar Fundamental Front-End Web Development_  
+🔗 _Belajar Fundamental Front-End Web Development_  
 [Dicoding Course Link](https://www.dicoding.com/academies/163)
