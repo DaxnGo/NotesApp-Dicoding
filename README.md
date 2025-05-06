@@ -1,5 +1,5 @@
 ## 📒 NotesApp-Dicoding
-A simple notes-taking web application developed as a submission project for the Dicoding course: _Belajar Membuat Aplikasi Web untuk Pemula_. This app helps users write, manage, and archive notes directly in their browser, with a clean interface and responsive layout.
+A simple notes-taking web application developed as a submission project for the Dicoding course: _Belajar Fundamental Front-End Web Development_. This app helps users write, manage, and archive notes directly in their browser, with a clean interface and responsive layout.
 
 ## **✅ Submission Criteria Fulfilled**
 - ✅ Displays the list of notes well
@@ -23,5 +23,5 @@ A simple notes-taking web application developed as a submission project for the 
 
 ## **📚 Course Reference**
 This project was submitted as part of the Dicoding Indonesia learning path:  
-🔗 _Belajar Membuat Aplikasi Web untuk Pemula_  
+🔗 Belajar Fundamental Front-End Web Development_  
 [Dicoding Course Link](https://www.dicoding.com/academies/163)
