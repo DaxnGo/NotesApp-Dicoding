@@ -2,10 +2,10 @@
 A simple notes-taking web application developed as a submission project for the Dicoding course: _Belajar Membuat Aplikasi Web untuk Pemula_. This app helps users write, manage, and archive notes directly in their browser, with a clean interface and responsive layout.
 
 ## **✅ Submission Criteria Fulfilled**
-- ✅ Menampilkan daftar catatan dengan baik
-- ✅ Formulir untuk menambah catatan
-- ✅ Menggunakan **CSS Grid** sebagai metode layouting
-- ✅ Membangun komponen UI dengan **Web Component** (tanpa framework)
+- ✅ Displays the list of notes well
+- ✅ Form to add notes
+- ✅ Using **CSS Grid** as layout method
+- ✅ Building UI components with **Web Component** (without framework)
 
 ## **✨ Features**
 - Add, delete, and archive notes
